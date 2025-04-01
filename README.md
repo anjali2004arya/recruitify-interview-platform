@@ -1,3 +1,43 @@
+# 🚀 Recruitify Interview Platform
+
+Recruitify Interview Platform is a modern web application designed to streamline the interview process by providing a seamless experience for recruiters and candidates.
+
+## 🌟 Features
+- 🔹 **User Authentication** with Clerk (Sign In / Sign Up)
+- 🔹 **Role-Based Access** (Recruiters & Candidates)
+- 🔹 **Interview Scheduling** for hassle-free planning
+- 🔹 **Real-Time Collaboration** with Convex
+- 🔹 **Dark & Light Theme Toggle**
+- 🔹 **Secure APIs** for smooth data handling
+- 🔹 **Fully Responsive UI** with Tailwind CSS & ShadCN
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+- ⚛ **Next.js** (App Router)
+- 🎨 **Tailwind CSS** (UI Styling)
+- 🏗 **ShadCN** (UI Components)
+- 🔑 **Clerk Authentication**
+- 🌙 **Next-Themes** (Dark Mode)
+- 🏛 **Convex** (Real-time Database & Functions)
+
+### **Backend**
+- 🚀 **Next.js API Routes**
+- 🔥 **Convex** (Database & Backend Logic)
+- 🔐 **Clerk** (User Authentication)
+
+### **Deployment**
+- ☁️ **Vercel** (Hosting & Deployment)
+
+---
+
+# 🏗️ Steps to Set Up the Project
+
+## **1️⃣ Clone the Repository**
+```sh
+git clone https://github.com/anjali2004arya/recruitify-interview-platform.git
+cd recruitify-interview-platform
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +74,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+
+
